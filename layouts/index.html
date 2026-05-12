@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    {{ partial "header.html" . }}
+    <header class="hero">
+        <div class="container">
+            <h1 class="site-title">{{ .Site.Title }}</h1>
+            <p class="subtitle">Физика, которая оживает</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <article class="content">
+            {{ .Content }}
+        </article>
+    </main>
+
+    <footer class="container">
+        <p>&copy; {{ now.Format "2006" }} SimplePhysics. Все права защищены.</p>
+    </footer>
+
+    <script src="{{ "js/theme.js" | relURL }}"></script>
+</body>
+</html>

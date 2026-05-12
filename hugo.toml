@@ -1,0 +1,7 @@
+baseURL = 'https://github.com/denvasyukov07-beep/practice-2025-1/'   
+languageCode = 'ru-ru'
+title = 'SimplePhysics'
+theme = ''  
+[markup.goldmark.renderer]
+unsafe = true
+publishDir = "public"

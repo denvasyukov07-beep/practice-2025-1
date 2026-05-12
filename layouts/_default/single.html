@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} – {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    {{ partial "header.html" . }}
+    <header class="page-header">
+        <div class="container">
+            <a href="{{ .Site.Home.Permalink }}" class="back-link">← На главную</a>
+            <h1 class="page-title">{{ .Title }}</h1>
+        </div>
+    </header>
+
+    <main class="container">
+        <article class="content">
+            {{ .Content }}
+        </article>
+    </main>
+
+    <footer class="container">
+        <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}. Все права защищены.</p>
+    </footer>
+
+    <script src="{{ "js/theme.js" | relURL }}"></script>
+</body>
+</html>
