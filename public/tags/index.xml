@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SimplePhysics</title>
-    <link>http://localhost:1313/denvasyukov07-beep/practice-2025-1/tags/</link>
+    <link>http://localhost:1313/practice-2025-1/tags/</link>
     <description>Recent content in Tags on SimplePhysics</description>
     <generator>Hugo</generator>
-    <language>ru-ru</language>
-    <atom:link href="http://localhost:1313/denvasyukov07-beep/practice-2025-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <atom:link href="http://localhost:1313/practice-2025-1/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

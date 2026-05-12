@@ -1,7 +1,6 @@
-baseURL = 'https://github.com/denvasyukov07-beep/practice-2025-1/'   
-languageCode = 'ru-ru'
-title = 'SimplePhysics'
-theme = ''  
+baseURL = 'https://denvasyukov07-beep.github.io/practice-2025-1/'
+locale = 'ru'
+title = 'SimplePhysics'  
 [markup.goldmark.renderer]
 unsafe = true
 publishDir = "public"

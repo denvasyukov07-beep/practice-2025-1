@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SimplePhysics – физика, которая затягивает on SimplePhysics</title>
-    <link>http://localhost:1313/denvasyukov07-beep/practice-2025-1/</link>
+    <link>http://localhost:1313/practice-2025-1/</link>
     <description>Recent content in SimplePhysics – физика, которая затягивает on SimplePhysics</description>
     <generator>Hugo</generator>
-    <language>ru-ru</language>
+    <language>ru</language>
     <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/denvasyukov07-beep/practice-2025-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/practice-2025-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>О проекте</title>
-      <link>http://localhost:1313/denvasyukov07-beep/practice-2025-1/about/</link>
+      <link>http://localhost:1313/practice-2025-1/about/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/denvasyukov07-beep/practice-2025-1/about/</guid>
+      <guid>http://localhost:1313/practice-2025-1/about/</guid>
       <description>&lt;h1 id=&#34;о-проекте-simplephysics&#34;&gt;О проекте SimplePhysics&lt;/h1&gt;&#xA;&lt;h2 id=&#34;визуальная-новелла--сердце-проекта&#34;&gt;Визуальная новелла – сердце проекта&lt;/h2&gt;&#xA;&lt;p&gt;Главная часть нашего проекта – &lt;strong&gt;интерактивная визуальная новелла&lt;/strong&gt;, которая превращает изучение физики в увлекательное приключение. Вместо скучных параграфов учебника ты окажешься в центре событий, повлияешь на развитие сюжета и заодно освоишь ключевые физические концепции.&lt;/p&gt;&#xA;&lt;h3 id=&#34;сюжет&#34;&gt;Сюжет&lt;/h3&gt;&#xA;&lt;p&gt;Обычный школьник &lt;strong&gt;Дима&lt;/strong&gt; готовится к непростому экзамену по физике. Весь материал кажется ему запутанным и далёким от реальности, а времени почти не осталось. К счастью, на помощь приходят трое одноклассников – &lt;strong&gt;Артём, Элли и Галя&lt;/strong&gt;. Каждый из них разбирается в своей области физики и готов объяснить сложные вещи на простых и наглядных примерах.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Участники проекта</title>
-      <link>http://localhost:1313/denvasyukov07-beep/practice-2025-1/team/</link>
+      <link>http://localhost:1313/practice-2025-1/team/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/denvasyukov07-beep/practice-2025-1/team/</guid>
+      <guid>http://localhost:1313/practice-2025-1/team/</guid>
       <description>&lt;h1 id=&#34;наша-команда&#34;&gt;Наша команда&lt;/h1&gt;&#xA;&lt;p&gt;Мы — студенты, объединённые идеей показать абитуриентам, что физика может быть живой и увлекательной. Каждый из нас внёс уникальный вклад в создание визуальной новеллы «SimplePhysics» и этого сайта.&lt;/p&gt;&#xA;&lt;div class=&#34;team-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;team-card&#34;&gt;&#xD;&#xA;    &lt;h3&gt;Васюков Денис&lt;/h3&gt;&#xD;&#xA;    &lt;span class=&#34;role&#34;&gt;Программист&lt;/span&gt;&#xD;&#xA;    &lt;p&gt;Разработал архитектуру проекта, настроил систему контроля версий (Git) и непрерывную интеграцию. Занимался программированием основных игровых механик новеллы, а также созданием статического сайта на Hugo — от вёрстки до деплоя.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;team-card&#34;&gt;&#xD;&#xA;    &lt;h3&gt;Крайнев Егор&lt;/h3&gt;&#xD;&#xA;    &lt;span class=&#34;role&#34;&gt;Программист&lt;/span&gt;&#xD;&#xA;    &lt;p&gt;Реализовал визуальные эффекты и анимации в новелле, интегрировал простые физические симуляции (механика, электричество) в интерактивные сцены. Помогал в разработке сайта и настройке серверной части.&lt;/p&gt;</description>
     </item>
   </channel>
