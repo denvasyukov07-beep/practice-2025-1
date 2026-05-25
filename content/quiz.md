@@ -8,7 +8,7 @@ layout: quiz
   <h2>✨ Узнай своего персонажа в нашем Telegram-боте! ✨</h2>
   <p style="font-size: 1.2rem; margin-bottom: 2rem;">Пройди интерактивный тест и открой для себя мир «SimplePhysics» по-новому.</p>
   
-  <a href="https://t.me/SimplePhysicsQuizBot" target="_blank" rel="noopener noreferrer" 
+  <a href="https://t.me/simplephys_test_bot" target="_blank" rel="noopener noreferrer" 
      style="display: inline-flex; align-items: center; gap: 12px; background-color: #0088cc; color: white; 
             padding: 12px 24px; border-radius: 40px; text-decoration: none; font-weight: bold; font-size: 1.2rem;
             transition: all 0.2s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
